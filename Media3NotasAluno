@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class Media3NotasAluno
+{
+	public static void Main(String[] args) {
+		Scanner kb = new Scanner (System.in);
+		
+	}
+}
