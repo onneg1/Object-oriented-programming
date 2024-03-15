@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 //Isso define uma classe chamada Main. Em Java, o nome da classe deve coincidir
 //com o nome do arquivo que contém o código-fonte e uma classe pública deve ser definida no arquivo.
-public class Main
+public class CalculoBasico
 {
     
     //Este é o método main, que é o ponto de entrada para a execução do programa em Java. 
