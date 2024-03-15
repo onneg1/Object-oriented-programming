@@ -1,3 +1,6 @@
+//ELABORE UM ALGORITMO PARA CALCULAR A SOMA, SUBTRAÇÃO, MULTIPLICAÇÃO E DIVISÃO DE DOIS NÚMEROS DIGITADOS PELO USUÁRIO.
+
+
 //linha para importar a classe Scanner do pacote java.util,usada para obter entrada do usuário a partir do teclado.
 import java.util.Scanner;
 
